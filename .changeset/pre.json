@@ -32,7 +32,9 @@
     "fix-2fa-bypass",
     "fix-backup-codes-storage",
     "fix-password-reset-callback-operation-id",
+    "fix-revert-2fa-broadening",
     "fix-stripe-defu-prototype-pollution",
+    "force-allow-id-uuid",
     "generic-oauth-unification",
     "honest-regions-jam",
     "honest-symbols-stick",
@@ -47,6 +49,7 @@
     "sso-saml-hardening",
     "sso-saml-model-split",
     "sso-upgrade-samlify",
+    "tighten-adapter-peerdeps",
     "two-factor-otp-enable"
   ]
 }
