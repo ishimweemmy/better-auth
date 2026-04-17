@@ -1,5 +1,15 @@
 # @better-auth/api-key
 
+## 1.6.6
+
+### Patch Changes
+
+- [#9187](https://github.com/better-auth/better-auth/pull/9187) [`3728518`](https://github.com/better-auth/better-auth/commit/3728518d1cbd0af1999fd00a6259c4b3f492825f) Thanks [@ping-maxwell](https://github.com/ping-maxwell)! - fix(api-key): run secondary-storage api-key executions in parallel
+
+- Updated dependencies [[`a844c7d`](https://github.com/better-auth/better-auth/commit/a844c7dd087715678787cb10bf9670fad46e535b), [`a61083e`](https://github.com/better-auth/better-auth/commit/a61083e023163d0a14d9e886ce556ba459677428), [`e64ff72`](https://github.com/better-auth/better-auth/commit/e64ff720fb8514cb78aedd1660223d8b948284da)]:
+  - @better-auth/core@1.6.6
+  - better-auth@1.6.6
+
 ## 1.6.5
 
 ### Patch Changes
